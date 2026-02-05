@@ -11,14 +11,15 @@ El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un program
 
 ![](https://github.com/Alexus8650/McQueen-Car/blob/bdd9b5b245801a5e1ed6825f4d27899cc135e634/op.PNG)
 
-#### Este programa tiene 2 partes:
-##### 1-Void Setup:
+### Este programa tiene 2 partes:
+#### 1-Void Setup:
 Se le adjudica un grupo de radio.
-##### 2-Void Loop
+#### 2-Void Loop
 Aunque dividido en grupos, está constantemente detectando cambios en los sensores para mandar una señal de radio si detecta algo en alguno programado. Si el botón A es presionado se mandará el número 1, si el botón B es presionado se mandará el número 2, si el botón A y B son presionados a la vez se mandará el número 3, si el logotipo es presionado se mandará el número 4 y si es agitada la placa microbit se mandará el número 5.
-#### Diagrama de Flujo
+### Diagrama de Flujo
 Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 
-![]()
+![](https://github.com/Alexus8650/McQueen-Car/blob/5fe8e539345a38c09d8e49b5257d23a63f759cfb/Diagrama%20en%20blanco%20(7).png)
+
 ## El esclavo
-Este programa lo hizo mi compañero Adrián, un programa un poco más complicado pero no imposible.
+Este programa lo hizo mi compañero Adrián, un programa un poco más complicado pero no imposible:
