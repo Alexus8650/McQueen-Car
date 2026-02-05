@@ -8,4 +8,4 @@ La clase se dividió en grupos de dos, o comúnmente llamado "en parejas". Despu
 Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyemdo lo siguente:
 ## El maestro
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
-![]()
+![](McQueen-Car/commit/cc35d0f6a5e93c5c1e47ca5d793003d5957f12ce)
