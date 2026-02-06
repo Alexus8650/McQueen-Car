@@ -5,6 +5,8 @@ El proyecto se trata de controlar vía radio el robót mcqueen con una placa mic
 
 La clase se dividió en grupos de dos, o comúnmente llamado "en parejas". Después Se decidió quién iba a programar la placa microibit y quién el mcqueen, ya que son distintos claramente, y aquí digo por qué: La placa microbit es llamada "El maestro", porque envía la señal radio y da la orden a "El esclavo", que es el robot mcqueen, y tiene que recibir la onda de radio e interpretarla para luego hacer lo que concluya.
 
+Otra cosa que aclarar, el maestro de nuestro grupo ma a manejar el esclavo del grupo siguiente, y el esclavo será manejado por el maestro de grupo anterior.
+
 Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyemdo lo siguente:
 ## El maestro
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
@@ -24,9 +26,10 @@ Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 ## El esclavo
 Este programa lo hizo mi compañero Adrián, un programa un poco más complicado pero no imposible:
 
-![](*Imagen programa*)
+![](https://github.com/Alexus8650/McQueen-Car/blob/4217d42746d74832411bdbd31c21021c0fc0bd27/Esclavo.PNG)
 
 ### Este programa tiene dos partes también, como en el anterior:
 #### Void Setup:
-Este se adjudicará el grupo de radio, en este caso el *Número de radio*
+Este se adjudicará el grupo de radio, en este caso el 69.
 #### Void Loop:
+Este, en vez de enviar ondas de radio, las recive. Está continuamente 
