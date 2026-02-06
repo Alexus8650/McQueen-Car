@@ -39,4 +39,4 @@ Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 ![](*Diagrama esclavo*)
 
 ## Producto Final
-[![](https://img.youtube.com/vi/oegCsJTke2k&authuser=0/0.jpg)](https://www.youtube.com/watch?v=oegCsJTke2k&authuser=0)
+[![](https://img.youtube.com/vi/oegCsJTke2k/0.jpg)](https://www.youtube.com/watch?v=oegCsJTke2k)
