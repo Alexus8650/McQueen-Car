@@ -9,6 +9,8 @@ Otra cosa que aclarar, el maestro de nuestro grupo ma a manejar el esclavo del g
 
 Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyemdo lo siguente:
 ## El maestro
+Este maestro controló el esclavo del siguiente equipo, en concreto al esclavo que Ramón programó.
+
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
 
 ![](https://github.com/Alexus8650/McQueen-Car/blob/bdd9b5b245801a5e1ed6825f4d27899cc135e634/op.PNG)
@@ -24,7 +26,9 @@ Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 ![](https://github.com/Alexus8650/McQueen-Car/blob/5fe8e539345a38c09d8e49b5257d23a63f759cfb/Diagrama%20en%20blanco%20(7).png)
 
 ## El esclavo
-Este programa lo hizo mi compañero Adrián, un programa un poco más complicado pero no imposible:
+Este código funciona para el esclavo de mi compañero de equipo Adrián que es controlado por Sixto que es el que programó el maestro en su equipo.
+
+Este programa es un programa un poco más complicado que el del maestro, pero no imposible:
 
 ![](https://github.com/Alexus8650/McQueen-Car/blob/4217d42746d74832411bdbd31c21021c0fc0bd27/Esclavo.PNG)
 
@@ -36,7 +40,8 @@ Este, en vez de enviar ondas de radio, las recive. Está continuamente mirando s
 ### Diagrama de Flujo:
 Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 
-![](*Diagrama esclavo*)
+![](https://github.com/Alexus8650/McQueen-Car/blob/d1b1821b060638fa94f08446d486de2b41cd5e1f/Diagrama%20en%20blanco%20(8).png)
 
 ## Producto Final
+Este vídeo que aparece acontinuación soy yo manejando, con mi maestro, el esclavo de Ramón. Podemos ver como en la pantalla de mi maestro
 [![](https://img.youtube.com/vi/oegCsJTke2k/0.jpg)](https://www.youtube.com/watch?v=oegCsJTke2k)
