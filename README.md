@@ -5,13 +5,13 @@ El proyecto se trata de controlar vía radio el robót mcqueen con una placa mic
 
 La clase se dividió en grupos de dos, o comúnmente llamado "en parejas". Después Se decidió quién iba a programar la placa microibit y quién el mcqueen, ya que son distintos claramente, y aquí digo por qué: La placa microbit es llamada "El maestro", porque envía la señal radio y da la orden a "El esclavo", que es el robot mcqueen, y tiene que recibir la onda de radio e interpretarla para luego hacer lo que concluya.
 
-Otra cosa que aclarar, el maestro de nuestro grupo ma a manejar el esclavo del grupo siguiente, y el esclavo será manejado por el maestro de grupo anterior. Entonces los programas no se cuadran, no son para el mismo robot.
-
-Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyemdo lo siguente:
-## El maestro
-Este maestro controló el esclavo del siguiente equipo, en concreto al esclavo que Ramón programó.
+Otra cosa que aclarar, el maestro de nuestro grupo va a manejar el esclavo del grupo siguiente, y el esclavo será manejado por el maestro de grupo anterior. Entonces los programas no se cuadran, no son para el mismo robot.
 
 Los códigos están hechos con Make Code, que es utilizado para programar las placas Microbit, en un programa de bloques.
+
+Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyendo lo siguente:
+## El maestro
+Este maestro controló el esclavo del siguiente equipo, en concreto al esclavo que Ramón programó.
 
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
 
@@ -35,9 +35,9 @@ Este programa es un programa un poco más complicado que el del maestro, pero no
 ![](https://github.com/Alexus8650/McQueen-Car/blob/4217d42746d74832411bdbd31c21021c0fc0bd27/Esclavo.PNG)
 
 ### Este programa tiene dos partes también, como en el anterior:
-#### Void Setup:
+#### 1-Void Setup:
 Este se adjudicará el grupo de radio, en este caso el 69.
-#### Void Loop:
+#### 2-Void Loop:
 Este, en vez de enviar ondas de radio, las recive. Está continuamente mirando si hay una onda de radio para reecivir. Cuando se detecta una, compara lo recivido con "5", si es así, el motor derecho avanzará y el izquierdo parará, para que gire a la izquierda; si no, lo comparará con "6", si es así, el motor izquierdo avanzará y el derecho parará para qué gire a la derecha; si no, lo comparará con "7", si es así los dos motores avanzarán para moverse hacia adelante; si no, lo comparaá con el "8", si es así se pararán los dos motores para que se pare el robot en sí. Si todo esto falla se pondrá a intentar captar ondas de radio para empezar el ciclo.
 ### Diagrama de Flujo:
 Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
@@ -45,5 +45,6 @@ Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 ![](https://github.com/Alexus8650/McQueen-Car/blob/d1b1821b060638fa94f08446d486de2b41cd5e1f/Diagrama%20en%20blanco%20(8).png)
 
 ## Producto Final
-Este vídeo que aparece acontinuación soy yo manejando, con mi maestro, el esclavo de Ramón. Podemos ver como en la pantalla de mi maestro
+Este vídeo que aparece acontinuación soy yo manejando, con mi maestro, el esclavo de Ramón. Podemos ver como en la pantalla de mi maestro salen los símbolos que he mencionado anteriormente y que en el robot cuando gira se le encienden los led a modo de intermitentes.
+
 [![](https://img.youtube.com/vi/oegCsJTke2k/0.jpg)](https://www.youtube.com/watch?v=oegCsJTke2k)
