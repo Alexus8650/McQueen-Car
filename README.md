@@ -11,6 +11,8 @@ Una vez hecho esto empezamos a programar y trabajar, aprendiendo y concluyemdo l
 ## El maestro
 Este maestro controló el esclavo del siguiente equipo, en concreto al esclavo que Ramón programó.
 
+Los códigos están hechos con Make Code, que es utilizado para programar las placas Microbit, en un programa de bloques.
+
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
 
 ![](https://github.com/Alexus8650/McQueen-Car/blob/ba6eccddd01a7093c919eb4f71d0cee8da8efd1d/trr.PNG)
