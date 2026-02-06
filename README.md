@@ -21,11 +21,11 @@ El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un program
 #### 1-Void Setup:
 Se le adjudica un grupo de radio, en este caso el 8.
 #### 2-Void Loop
-Aunque dividido en grupos, está constantemente detectando cambios en los sensores para mandar una señal de radio si detecta algo en alguno programado. Si el botón A es presionado se mandará el número 1, si el botón B es presionado se mandará el número 2, si el botón A y B son presionados a la vez se mandará el número 3, si el logotipo es presionado se mandará el número 4 y si es agitada la placa microbit se mandará el número 5.
+Aunque dividido en grupos, está constantemente detectando cambios en los sensores para mandar una señal de radio si detecta algo en alguno programado. Si el botón A es presionado se mandará el número 1 y se mostrará en pantalla una flecha hacia la izquierda, si el botón B es presionado se mandará el número 2 y se mostrará en pantalla una flecha hacia la derecha, si el botón A y B son presionados a la vez se mandará el número 3 y se mostrará en pantalla una flecha hacia arriba, si el logotipo es presionado se mandará el número 4 y se mostrará en pantalla una flecha hacia abajo, y si es agitada la placa microbit se mandará el número 5 y se mostrará una X.
 ### Diagrama de Flujo:
 Aquí tenemos una imagen esquemática del programa para que se entienda mejor:
 
-![](https://github.com/Alexus8650/McQueen-Car/blob/5fe8e539345a38c09d8e49b5257d23a63f759cfb/Diagrama%20en%20blanco%20(7).png)
+![](https://github.com/Alexus8650/McQueen-Car/blob/449106b011d6db5dcdca662805b654c351acc3bb/Diagrama%20en%20blanco%20(9).png)
 
 ## El esclavo
 Este código funciona para el esclavo de mi compañero de equipo Adrián que es controlado por Sixto que es el que programó el maestro en su equipo.
