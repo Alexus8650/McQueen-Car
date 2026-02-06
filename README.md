@@ -13,7 +13,7 @@ Este maestro controló el esclavo del siguiente equipo, en concreto al esclavo q
 
 El maestro es lo que me tocó a mí, y el más sencillo, ya que tiene un programa más simple:
 
-![](https://github.com/Alexus8650/McQueen-Car/blob/bdd9b5b245801a5e1ed6825f4d27899cc135e634/op.PNG)
+![](https://github.com/Alexus8650/McQueen-Car/blob/ba6eccddd01a7093c919eb4f71d0cee8da8efd1d/trr.PNG)
 
 ### Este programa tiene 2 partes:
 #### 1-Void Setup:
